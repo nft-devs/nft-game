@@ -1713,12 +1713,12 @@
         }
       },
       "links": {},
-      "address": "0xb0C7B11D08c6EAE284Fd87E043653e93dE290256",
-      "transactionHash": "0xb6e151e3a4fae144260a03b67644b36f5b949124c9bba2fb2fcd16135da48b8c"
+      "address": "0x70C9509fF91053D8E1f584003d777060130B2e3A",
+      "transactionHash": "0xa91fb60d527a5776eb846d87b17d2377b04aeb3bd1680d421073d57839a42457"
     }
   },
   "schemaVersion": "3.2.4",
-  "updatedAt": "2020-10-10T08:18:41.195Z",
+  "updatedAt": "2020-10-10T16:23:23.434Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {
